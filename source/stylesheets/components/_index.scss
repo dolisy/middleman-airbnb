@@ -1,3 +1,33 @@
 // Import your components CSS files here.
 @import "alert";
 @import "navbar";
+@import "footer";
+
+.cards-container {
+
+}
+
+.main-container {
+  display: flex;
+  align-items: center;
+}
+
+.card {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 200%;
+  text-align: center;
+  padding: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#map {
+
+}
+
+.recent-title {
+  display: flex;
+  align-items: center;
+}

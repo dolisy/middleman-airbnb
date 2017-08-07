@@ -1,5 +1,8 @@
 #home {
-  background-color: #D23333;
+  // background-color: #D23333;
+  background-image: url("http://haus-und-grund-berlin.de/wp-content/uploads/2015/08/Berlin_F109617823_1500x630.jpg");
+  background-repeat: no-repeat;
+  filter: blur(0px);
   color: white;
   height: 100vh;
   display: flex;
@@ -14,4 +17,8 @@
     font-weight: bold;
     font-size: 16px;
   }
+}
+
+.home-content {
+  text: white;
 }

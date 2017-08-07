@@ -1,0 +1,28 @@
+.footer {
+  display: flex;
+  align-itens: center;
+  justify-content: space-between;
+  height: 100px;
+  padding: 50px;
+  color: grey;
+  background: lightgrey;
+  opacity: 0.6;
+}
+
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+
+.footer-copyright {
+  display: flex;
+  align-items: center;
+}
+
+.fa {
+  margin: 20px;
+}
+
+.fa:hover {
+  color: black;
+}
